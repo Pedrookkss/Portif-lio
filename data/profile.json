@@ -1,0 +1,73 @@
+{
+  "name": "Pedro Bittencourt",
+  "photo": "https://avatars.githubusercontent.com/u/165230428?s=400&u=79270a43cc6dd22c37a0786973a165b8ed1bdb32&v=4",
+  "job": "Suporte Técnico em Wise System",
+  "location": "São Paulo - SP",
+  "phone": "(11) 97968-1320",
+  "email": "pha.bittencourt@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": ""
+      },
+      {
+        "name": "Html",
+        "logo": ""
+      },
+      {
+        "name": "CSS",
+        "logo": ""
+      },
+      {
+        "name": "SqlServer",
+        "logo": ""
+      },
+      {
+        "name": "Nodejs",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Fluente)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Detalhamento de pokemons usando PokeAPI",
+      "url": "https://github.com/Pedrookkss/DesafioPokedex",
+      "github": true
+    },
+    {
+      "name": "Pagina de portifólio ",
+      "url": "",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Suporte Técnico / Wise System",
+      "period": "2024 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Jovem aprendiz admnistrativo / OdontoPrev S/A",
+      "period": "2021 - 2022",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "Auxiliar Admnistrativo / Villeneuve Caffé",
+      "period": "2018 - 2021",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas outras."
+    }
+  ]
+}
