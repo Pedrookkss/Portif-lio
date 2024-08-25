@@ -8,25 +8,25 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "JavaScript",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/js.png"
+        "name": "Nodejs",
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Html",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/html.png"
+        "name": "JavaScript",
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "CSS",
         "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/css.png"
       },
       {
-        "name": "Nodejs",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/nodejs.png"
+        "name": "Html",
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/html.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Organização",
+      "Adaptibilidade",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -39,12 +39,12 @@
   ],
   "portfolio": [
     {
-      "name": "Detalhamento de pokemons usando PokeAPI",
+      "name": "Detail de pokémons usando PokeAPI",
       "url": "https://github.com/Pedrookkss/DesafioPokedex",
       "github": true
     },
     {
-      "name": "Pagina de portifólio ",
+      "name": "Curriculum interativo com Js, HTML5 e CSS",
       "url": "https://github.com/Pedrookkss/Portifolio",
       "github": true
     }
