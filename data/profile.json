@@ -9,23 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": ""
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "Html",
-        "logo": ""
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": ""
-      },
-      {
-        "name": "SqlServer",
-        "logo": ""
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/css.png"
       },
       {
         "name": "Nodejs",
-        "logo": ""
+        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/nodejs.png"
       }
     ],
     "softSkills": [
@@ -49,7 +45,7 @@
     },
     {
       "name": "Pagina de portifólio ",
-      "url": "",
+      "url": "https://github.com/Pedrookkss/Portifolio",
       "github": true
     }
   ],
