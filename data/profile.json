@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/nodejs.png"
+        "logo": "https://github.com/Pedrookkss/Portifolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/js.png"
+        "logo": "https://github.com/Pedrookkss/Portifolio/main/data/imgs/js.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/css.png"
+        "logo": "https://github.com/Pedrookkss/Portifolio/main/data/imgs/css.png"
       },
       {
         "name": "Html",
-        "logo": "https://github.com/Pedrookkss/Portifolio/blob/main/data/imgs/html.png"
+        "logo": "https://github.com/Pedrookkss/Portifolio/main/data/imgs/html.png"
       }
     ],
     "softSkills": [
